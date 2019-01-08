@@ -1,6 +1,6 @@
 owner=352533519068823556
 prefix=_p
 game=_p
-stayinchannel=fales
+stayinchannel=true
 songinstatus=false
 token=NTMyMjQwOTk0ODEzMzQ1ODEy.DxZn5A.Il1uIjczaErS-Tv-7KAkI4ig3g4
